@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kumar Abhishek
 - 👀 I’m interested in Programming & Designing 
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on With Graphics Designer and Programnmer
+- 💞️ I’m looking to collaborate With Graphics Designer and Programnmer
 - 📫 You Can reach me on my Mail official.k.abhishek@gmail.com
 
 <!---
