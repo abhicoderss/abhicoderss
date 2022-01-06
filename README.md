@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Google Developer Solution Challenge**
 
-- 🌱 I’m currently learning **React & Flutter**
+- 🌱 I’m currently learning **Firebase & Flutter**
 
 - 👯 I’m looking to collaborate on **Fintech Project**
 
